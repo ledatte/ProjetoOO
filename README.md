@@ -1,6 +1,6 @@
-# Ambiente de Desenvolvimento
+# Configuração do Ambiente de Desenvolvimento
 
-# Ferramentas Necessarias
+# Ferramentas Necessárias
 Todas as ferramentas serão instaladas no sistema operacional Windows 10.
 
 ## Spring Tool Suite
