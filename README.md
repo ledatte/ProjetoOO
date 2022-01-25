@@ -58,6 +58,9 @@ Versão 16.13.2
 3. Após o download conclua os passos do instalador.
 
 ## Postman
+O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas.
+
+Versão 
 
 
 ## Referências
@@ -70,3 +73,6 @@ Versão 16.13.2
 <a href="https://blog.betrybe.com/git/#:~:text=Git%20%C3%A9%20o%20sistema%20de,de%20trabalho%2C%20seguran%C3%A7a%20e%20desempenho.">Git: o que é, para que serve e principais comandos Git!</a>
 
 <a href="https://www.opus-software.com.br/node-js/">Node.js – O que é, como funciona e quais as vantagens</a>
+
+<a href="https://developercielo.github.io/tutorial/postman#:~:text=O%20Postman%20%C3%A9%20um%20API,bem%20como%20ler%20suas%20respostas.">O que é o POSTMAN?</a>
+
