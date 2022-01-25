@@ -41,8 +41,14 @@ O Git é um dos sistemas de controle de versão mais utilizados no mundo de dese
 Ele permite ver o código de outras pessoas colaboradores, as diferenças que foram adicionadas ou removidas e mantém o histórico deles, ou seja, você pode voltar para qualquer versão anterior que estava funcionando, por exemplo.
 
 ### Como Instalar ?
-1. Acesse a página do <a href="https://desktop.github.com/">GitHub Desktop</a>
-2.   
+1. Acesse a página do <a href="https://desktop.github.com/">GitHub Desktop</a>;
+2. Clique em Download;
+3. Após o download conclua os passos do instalador.
+
+## Node.js
+O Node.js pode ser definido como um ambiente de execução Javascript server-side, isso significa que com o Node.js é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução, como estamos acostumados.
+
+### Como Instalar?
 
 ## Referências
 <a href="https://bgasparotto.com/pt/instalar-o-spring-tool-suite-no-eclipse">Instalando o Spring Tool Suite no Eclipse</a> 
@@ -52,3 +58,5 @@ Ele permite ver o código de outras pessoas colaboradores, as diferenças que fo
 <a href="https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml">O que é e como usar o MySQL?</a>
 
 <a href="https://blog.betrybe.com/git/#:~:text=Git%20%C3%A9%20o%20sistema%20de,de%20trabalho%2C%20seguran%C3%A7a%20e%20desempenho.">Git: o que é, para que serve e principais comandos Git!</a>
+
+<a href="https://www.opus-software.com.br/node-js/">Node.js – O que é, como funciona e quais as vantagens</a>
