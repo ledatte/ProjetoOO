@@ -37,7 +37,15 @@ Versão 8.0.28
 2. O sistema operacional é definido automaticamente, basta clicar em Download;
 3. Após o download conclua os passos do instalador.
 
+## Git
+## O que é?
+O Git é um dos sistemas de controle de versão mais utilizados no mundo de desenvolvimento de software. Ele é um projeto de código aberto desenvolvido em 2005 por Linus Torvalds, o criador do kernel do Linux.
 
+Ele permite ver o código de outras pessoas colaboradores, as diferenças que foram adicionadas ou removidas e mantém o histórico deles, ou seja, você pode voltar para qualquer versão anterior que estava funcionando, por exemplo.
+
+### Como Instalar ?
+1. Acesse a página do <a href="https://desktop.github.com/">GitHub Desktop</a>
+2.   
 
 ## Referências
 <a href="https://bgasparotto.com/pt/instalar-o-spring-tool-suite-no-eclipse">Instalando o Spring Tool Suite no Eclipse</a> 
@@ -45,3 +53,5 @@ Versão 8.0.28
 <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">O que é a Tecnologia Java e porque preciso dela?</a>
   
 <a href="https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml">O que é e como usar o MySQL?</a>
+
+<a href="https://blog.betrybe.com/git/#:~:text=Git%20%C3%A9%20o%20sistema%20de,de%20trabalho%2C%20seguran%C3%A7a%20e%20desempenho.">Git: o que é, para que serve e principais comandos Git!</a>
