@@ -40,6 +40,8 @@ O Git é um dos sistemas de controle de versão mais utilizados no mundo de dese
 
 Ele permite ver o código de outras pessoas colaboradores, as diferenças que foram adicionadas ou removidas e mantém o histórico deles, ou seja, você pode voltar para qualquer versão anterior que estava funcionando, por exemplo.
 
+Versão 2.9.6
+
 ### Como Instalar ?
 1. Acesse a página do <a href="https://desktop.github.com/">GitHub Desktop</a>;
 2. Clique em Download;
@@ -48,7 +50,12 @@ Ele permite ver o código de outras pessoas colaboradores, as diferenças que fo
 ## Node.js
 O Node.js pode ser definido como um ambiente de execução Javascript server-side, isso significa que com o Node.js é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução, como estamos acostumados.
 
+Versão 16.13.2
+
 ### Como Instalar?
+1. Acesse a página do <a href="https://nodejs.org/en/download/">Node.js</a>;
+2. Selecione a opção de acordo com o seu sistema operacional;
+3. Após o download conclua os passos do instalador.
 
 ## Referências
 <a href="https://bgasparotto.com/pt/instalar-o-spring-tool-suite-no-eclipse">Instalando o Spring Tool Suite no Eclipse</a> 
