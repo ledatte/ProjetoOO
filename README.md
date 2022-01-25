@@ -63,8 +63,8 @@ O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar,
 Versão 9.10.0
 
 #### Como Instalar?
-1. Acesse a página do <a href="https://www.postman.com/downloads/>Postman</a>;
-2. Selecione a opção de acordo com o seu sistema operacional;
+1. Acesse a página do <a href="https://www.postman.com/downloads/">Postman</a>;
+2. Encontre a Opção <b>The Postman App</b> e na opção destacada em laranja escrito Windows;
 3. Após o download conclua os passos do instalador.
 
 
