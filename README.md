@@ -4,7 +4,6 @@
 Todas as ferramentas serão instaladas no sistema operacional Windows 10.
 
 ## Spring Tool Suite
-### O que é?
 O Sprint Tool Suite (STS) é uma caixa de ferramentas baseada no Eclipse para desenvolvimento com Spring, que contém funcionalidades como o Boot Dashboard, suporta todo o ecossistema do Spring e integração nativa com Maven, Gradle e Git.
 
 Versão 4.13.0
@@ -17,7 +16,6 @@ Versão 4.13.0
 Após a reinicialização do Eclipse, você estará pronto para desenvolver o Eclipse e já irá prever alguns mudanças no IDE. 
 
 ## Java
-### O que é?
 Java é uma linguagem de programação e plataforma computacional lançada pela primeira vez pela Sun Microsystems em 1995. Existem muitas aplicações e sites que não funcionarão, a menos que você tenha o Java instalado, e mais desses são criados todos os dias. O Java é rápido, seguro e confiável.
 
 Versão 8 Update 321
@@ -38,7 +36,6 @@ Versão 8.0.28
 3. Após o download conclua os passos do instalador.
 
 ## Git
-## O que é?
 O Git é um dos sistemas de controle de versão mais utilizados no mundo de desenvolvimento de software. Ele é um projeto de código aberto desenvolvido em 2005 por Linus Torvalds, o criador do kernel do Linux.
 
 Ele permite ver o código de outras pessoas colaboradores, as diferenças que foram adicionadas ou removidas e mantém o histórico deles, ou seja, você pode voltar para qualquer versão anterior que estava funcionando, por exemplo.
