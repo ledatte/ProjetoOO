@@ -67,8 +67,15 @@ Versão 9.10.0
 2. Encontre a Opção <b>The Postman App</b> e na opção destacada em laranja escrito Windows;
 3. Após o download conclua os passos do instalador.
 
+## Httpie
+É uma ferramenta de linha de comando para requisições HTTP amigável. HTTPie usa comando com sintaxe simples e natural, e mostra retornos de forma apresentável.
 
+Versão 2022.3.0 
 
+#### Como Instalar?
+1. Acesse a página de download do <a href="https://httpie.io/download">Httpie</a>;
+2. Selecione a opção desejada de acordo com o sistema operacional;
+3. Após o download conclua os passos do instalador.
 
 ## Referências
 <a href="https://bgasparotto.com/pt/instalar-o-spring-tool-suite-no-eclipse">Instalando o Spring Tool Suite no Eclipse</a> 
@@ -82,4 +89,6 @@ Versão 9.10.0
 <a href="https://www.opus-software.com.br/node-js/">Node.js – O que é, como funciona e quais as vantagens</a>
 
 <a href="https://developercielo.github.io/tutorial/postman#:~:text=O%20Postman%20%C3%A9%20um%20API,bem%20como%20ler%20suas%20respostas.">O que é o POSTMAN?</a>
+
+<a href="https://code.tutsplus.com/pt/tutorials/httpie-a-human-friendly-curl-like-tool--cms-27310">HTTPie, Ferramenta Amigável Parecida com cURL</a>
 
