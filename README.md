@@ -60,7 +60,14 @@ Versão 16.13.2
 ## Postman
 O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas.
 
-Versão 
+Versão 9.10.0
+
+#### Como Instalar?
+1. Acesse a página do <a href="https://www.postman.com/downloads/>Postman</a>;
+2. Selecione a opção de acordo com o seu sistema operacional;
+3. Após o download conclua os passos do instalador.
+
+
 
 
 ## Referências
